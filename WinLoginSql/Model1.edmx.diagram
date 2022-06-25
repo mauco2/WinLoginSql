@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="a91ef9ad3d88402aa1150e7341697331" Name="Diagram1">
+        <EntityTypeShape EntityType="LoginModel.Modulo" Width="1.5" PointX="1.5" PointY="10.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="LoginModel.Opcion" Width="1.5" PointX="0.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="LoginModel.Permiso" Width="1.5" PointX="3" PointY="3.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="LoginModel.RolUsuario" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="LoginModel.Usuario" Width="1.5" PointX="3" PointY="6.625" IsExpanded="true" />
+        <AssociationConnector Association="LoginModel.FK_Opcion_Modulo" ManuallyRouted="false" />
+        <AssociationConnector Association="LoginModel.FK_Permiso_Opcion" ManuallyRouted="false" />
+        <AssociationConnector Association="LoginModel.FK_Permiso_RolUsuario" ManuallyRouted="false" />
+        <AssociationConnector Association="LoginModel.FK_Usuario_RolUsuario" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,16 @@
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\WinLoginSql\WinLoginSql\obj\Debug\WinLoginSql.csproj.AssemblyReference.cache
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\WinLoginSql\WinLoginSql\obj\Debug\WinLoginSql.LoginFrm.resources
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\WinLoginSql\WinLoginSql\obj\Debug\WinLoginSql.Properties.Resources.resources
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\WinLoginSql\WinLoginSql\obj\Debug\WinLoginSql.RolUsuarioFrm.resources
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\WinLoginSql\WinLoginSql\obj\Debug\WinLoginSql.UsuarioFrm.resources
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\WinLoginSql\WinLoginSql\obj\Debug\WinLoginSql.csproj.GenerateResource.cache
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\WinLoginSql\WinLoginSql\obj\Debug\WinLoginSql.csproj.CoreCompileInputs.cache
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\WinLoginSql\WinLoginSql\bin\Debug\WinLoginSql.exe.config
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\WinLoginSql\WinLoginSql\bin\Debug\WinLoginSql.exe
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\WinLoginSql\WinLoginSql\bin\Debug\WinLoginSql.pdb
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\WinLoginSql\WinLoginSql\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\WinLoginSql\WinLoginSql\bin\Debug\EntityFramework.dll
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\WinLoginSql\WinLoginSql\obj\Debug\WinLoginSql.MenuFrm.resources
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\WinLoginSql\WinLoginSql\obj\Debug\WinLoginSql.csproj.CopyComplete
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\WinLoginSql\WinLoginSql\obj\Debug\WinLoginSql.exe
+C:\Users\mauco\Downloads\sistemas\proyectos\.net\pruebas c#\WinLoginSql\WinLoginSql\obj\Debug\WinLoginSql.pdb

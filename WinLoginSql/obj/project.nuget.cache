@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "G26aVpU/O3AvrkIFHPiWOkRjGLyjlk7Z2R6wYWWaowTx+UsHflxcF+iU7o/0iHyMBjR2jFGTXsB1GuzjmNIIrA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mauco\\Downloads\\sistemas\\proyectos\\.net\\pruebas c#\\WinLoginSql\\WinLoginSql\\WinLoginSql.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mauco\\.nuget\\packages\\entityframework\\6.2.0\\entityframework.6.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
